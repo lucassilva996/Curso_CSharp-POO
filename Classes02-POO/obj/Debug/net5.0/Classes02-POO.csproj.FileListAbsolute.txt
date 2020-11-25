@@ -1,0 +1,16 @@
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO.deps.json
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO.runtimeconfig.json
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO.runtimeconfig.dev.json
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO.dll
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/ref/Classes02-POO.dll
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/bin/Debug/net5.0/Classes02-POO.pdb
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.csprojAssemblyReference.cache
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.AssemblyInfo.cs
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.dll
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/ref/Classes02-POO.dll
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.pdb
+/home/lucas/Documentos/Curso/Curso_CSharp-POO/Classes02-POO/obj/Debug/net5.0/Classes02-POO.genruntimeconfig.cache
