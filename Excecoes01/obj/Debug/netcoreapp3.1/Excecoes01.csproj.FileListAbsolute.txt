@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\bin\Debug\netcoreapp3.1\Excecoes01.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes01\obj\Debug\netcoreapp3.1\Excecoes01.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\bin\Debug\netcoreapp3.1\Excecoes02.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Excecoes02\obj\Debug\netcoreapp3.1\Excecoes02.genruntimeconfig.cache

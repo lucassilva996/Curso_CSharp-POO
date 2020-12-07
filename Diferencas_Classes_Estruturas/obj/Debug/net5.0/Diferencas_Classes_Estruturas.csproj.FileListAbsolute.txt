@@ -1,0 +1,5 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Diferencas_Classes_Estruturas\obj\Debug\net5.0\Diferencas_Classes_Estruturas.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Diferencas_Classes_Estruturas\obj\Debug\net5.0\Diferencas_Classes_Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Diferencas_Classes_Estruturas\obj\Debug\net5.0\Diferencas_Classes_Estruturas.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Diferencas_Classes_Estruturas\obj\Debug\net5.0\Diferencas_Classes_Estruturas.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Diferencas_Classes_Estruturas\obj\Debug\net5.0\Diferencas_Classes_Estruturas.csproj.CoreCompileInputs.cache
