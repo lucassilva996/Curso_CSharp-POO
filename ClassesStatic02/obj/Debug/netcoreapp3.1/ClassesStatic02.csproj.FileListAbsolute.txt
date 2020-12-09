@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\bin\Debug\netcoreapp3.1\ClassesStatic02.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic02\obj\Debug\netcoreapp3.1\ClassesStatic02.genruntimeconfig.cache

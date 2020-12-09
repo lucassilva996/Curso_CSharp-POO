@@ -10,3 +10,4 @@ C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic03\obj\Debug\netcoreap
 C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic03\obj\Debug\netcoreapp3.1\ClassesStatic03.dll
 C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic03\obj\Debug\netcoreapp3.1\ClassesStatic03.pdb
 C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic03\obj\Debug\netcoreapp3.1\ClassesStatic03.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic03\obj\Debug\netcoreapp3.1\ClassesStatic03.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\bin\Debug\netcoreapp3.1\Abstrata01.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Abstrata01\obj\Debug\netcoreapp3.1\Abstrata01.genruntimeconfig.cache

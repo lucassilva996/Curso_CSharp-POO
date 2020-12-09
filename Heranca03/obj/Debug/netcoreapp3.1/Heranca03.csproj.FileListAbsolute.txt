@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\bin\Debug\netcoreapp3.1\Heranca03.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\Heranca03\obj\Debug\netcoreapp3.1\Heranca03.genruntimeconfig.cache

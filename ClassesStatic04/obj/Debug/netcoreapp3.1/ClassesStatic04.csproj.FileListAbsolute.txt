@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.exe
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.deps.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.runtimeconfig.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\bin\Debug\netcoreapp3.1\ClassesStatic04.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.dll
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.pdb
+C:\Users\lucas\source\repos\Curso_CSharp-POO\ClassesStatic04\obj\Debug\netcoreapp3.1\ClassesStatic04.genruntimeconfig.cache
